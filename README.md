@@ -2,7 +2,7 @@
 
 Detta program hjälper till att hantera en samling böcker. Användaren kan visa, lägga till, söka, låna, returnera och ta bort böcker. Böckerna lagras i en fil kallad `books.txt`, som kan laddas och sparas vid behov.
 
-![Flowchart](library-assignment/Assets/Flowchart.jpg)
+![Flowchart](Assets/Flowchart.jpg)
 
 ## Huvudkomponenter
 
